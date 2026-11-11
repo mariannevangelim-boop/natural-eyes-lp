@@ -1,0 +1,7 @@
+# configuração local da Vercel
+.vercel
+# arquivos do macOS
+.DS_Store
+# ferramentas internas e cópias de segurança (não fazem parte da página)
+.claude/
+_backup-*/
